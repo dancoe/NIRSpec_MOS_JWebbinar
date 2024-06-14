@@ -11,3 +11,9 @@ June 27, 2024 10AM – 12PM EDT
 
 This webinar will cover NIRSpec MOS (multi-object spectroscopy) data reduction by the JWST pipeline with example notebooks. We will cover recent pipeline updates that deliver improved spectra with default settings. We'll also discuss lingering caveats, workarounds, and techniques to reprocess data, including editing the MSA metafile and master background subtraction.
 
+### Notebooks
+* [pipeline](NIRSpec_MOS_pipeline.ipynb)
+* [MSA metafile](NIRSpec_MOS_MSA_metafile.ipynb)
+* [slits to sky](NIRSpec_MOS_slits_to_sky.ipynb)
+* master background
+* [NSClean](https://github.com/spacetelescope/jdat_notebooks/tree/main/notebooks/NIRSpec_NSClean.ipynb)
