@@ -17,3 +17,16 @@ This webinar will cover NIRSpec MOS (multi-object spectroscopy) data reduction b
 * [slits to sky](NIRSpec_MOS_slits_to_sky.ipynb)
 * master background
 * [NSClean](https://github.com/spacetelescope/jdat_notebooks/tree/main/notebooks/NIRSpec_NSClean.ipynb)
+
+### Data
+here in [data](data) subdirectory, except for large files linked below
+
+ERO 
+[SMACS0723](https://webbtelescope.org/contents/news-releases/2022/news-2022-035):
+* NIRCam F200W image: [`smacs0723-grizli-v7.0-f200w-clear_drc_sci.fits.gz`](https://s3.amazonaws.com/grizli-v2/JwstMosaics/v7/smacs0723-grizli-v7.0-f200w-clear_drc_sci.fits.gz)
+* NIRCam SW color image (optional) produced by [Trilogy](https://github.com/dancoe/trilogy):
+[`smacs0723_color_sw.png`](https://relics.stsci.edu/data/smacs0723-73/JWST/smacs0723_color_sw.png)
+* MSA shutter image: [`2736.p1c1-2e1n1.csv`](data/2736.p1c1-2e1n1.csv)
+* Spec3 spectrum for source #6355:
+  * S2D: [`jw02736-o007_s06355_nirspec_f290lp-g395m_s2d.fits`](data/jw02736-o007_s06355_nirspec_f290lp-g395m_s2d.fits)
+  * X1D: [`jw02736-o007_s06355_nirspec_f290lp-g395m_x1d.fits`](data/jw02736-o007_s06355_nirspec_f290lp-g395m_x1d.fits)
