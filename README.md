@@ -13,13 +13,15 @@ This webinar will cover NIRSpec MOS (multi-object spectroscopy) data reduction b
 
 ### Notebooks
 * [pipeline](NIRSpec_MOS_pipeline.ipynb)
-* [MSA metafile](NIRSpec_MOS_MSA_metafile.ipynb)
 * [slits to sky](NIRSpec_MOS_slits_to_sky.ipynb)
+* [MSA metafile](NIRSpec_MOS_MSA_metafile.ipynb)
 * master background
 * [NSClean](https://github.com/spacetelescope/jdat_notebooks/tree/main/notebooks/NIRSpec_NSClean.ipynb)
 
 ### Data
-here in [data](data) subdirectory, except for large files linked below
+Notebooks will automatically download data as needed from MAST and/or other locations listed below.
+
+Some files mirrored here in [data](data) subdirectory, except for large files linked below
 
 ERO 
 [SMACS0723](https://webbtelescope.org/contents/news-releases/2022/news-2022-035):
